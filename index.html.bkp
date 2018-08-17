@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+Hello Eentertainment!<br/>
+<?php echo 'Hej på dig'; ?>
+<?php phpinfo(); ?>
+</body>
+</html>
+
+
