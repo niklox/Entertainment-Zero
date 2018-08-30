@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-Hello you entertainer! Entertain us!
+World's Children's Prize Service and Maintenance
 <? //php phpinfo(); ?>
 </body>
 </html>
